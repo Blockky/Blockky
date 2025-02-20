@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blocky</h1>
 <h3 align="center">A computer engineer at UAH</h3>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQF8L6IwbnxDPA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726769868579?e=2147483647&v=beta&t=U4sx-C29kwPIJtqY0ONMBZ_tSHsUrY-rTPGdfy7NKWw" alt="pycharm" width="90000" height="100"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQF8L6IwbnxDPA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726769868579?e=2147483647&v=beta&t=U4sx-C29kwPIJtqY0ONMBZ_tSHsUrY-rTPGdfy7NKWw" alt="pycharm" width="90000" height="1000"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
