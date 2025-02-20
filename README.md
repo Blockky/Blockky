@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineer at UAH</h3>
 
 <p align="center">
-<img src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH" width="500" height="150"/>
+<img src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
