@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blocky</h1>
 <h3 align="center">A computer engineer at UAH</h3>
 
-<img align="center" src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH" width="600" height="180"/>
+<p align="center">
+<img src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH" width="600" height="180"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
