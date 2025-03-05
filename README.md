@@ -14,6 +14,5 @@
   <a href="https://wikipedia.org/wiki/RStudio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://wikipedia.org/wiki/Ubuntu" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntulinux" width="40" height="40"/> </a> 
-  <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png" alt="gnuasm" width="40" height="40"/> </a> 
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="apachenetbeans" width="40" height="40"/> </a> 
 </p>
