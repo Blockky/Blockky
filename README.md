@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineer at UAH</h3>
 
 ## Jugando ahora
-[![Jugando](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)]
+[![Jugando](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/602501571921707027)]
 <p align="center"> <a href="https://www.uah.es/en/estudios/estudios-oficiales/grados/Grado-en-Ingenieria-de-Computadores/" target="_blank" rel="noreferrer">
 <img src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH" width=400 />
 </p>
