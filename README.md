@@ -14,4 +14,4 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,ubuntu,pycharm,vscode,rstudioide&perline=10">
 </p>
 
-<img src="https://raw.githubusercontent.com/Blockky/Blockky/master/icons/rstudioide.svg">
+<img src="https://raw.githubusercontent.com/Blockky/Blockky/master/icons/rstudioide.svg" width=40 height=40 >
