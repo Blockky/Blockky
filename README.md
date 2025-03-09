@@ -13,3 +13,4 @@
 <p align="left"> 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,ubuntu,maven,pycharm,vscode,bash&perline=10&theme=dark">
 </p>
+<img src="https://nocache.advait.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/602501571921707027">
