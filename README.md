@@ -10,7 +10,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://es.wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="40" height="40"/> </a>
+  <a href="https://es.wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="asm" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
