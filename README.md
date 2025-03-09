@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,ubuntu,gnu,gas,pycharm,vscode,netbeans,rstudio&perline=10">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,ubuntu,pycharm,vscode,rstudioide&perline=10">
 </p>
 
 
