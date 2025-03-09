@@ -11,10 +11,5 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,ubuntu,pycharm,vscode,rstudioide&perline=10">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/icons/rstudioide.svg" width=40 height=40 >
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,ubuntu,pycharm,vscode,bash,maven&perline=10">
 </p>
-
-
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git">
