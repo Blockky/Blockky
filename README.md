@@ -22,5 +22,5 @@
 </p>
 
 
-            <i class="devicon-threedsmax-plain"></i>
+   <i class="devicon-threedsmax-plain"></i>
           
