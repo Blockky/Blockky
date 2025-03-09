@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Blocky</h1>
 <h3 align="center">A computer engineer at UAH</h3>
+## Estado en Discord
+[![Discord Status](https://nocache.advait.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/602501571921707027?simple=true)]
 
+## Jugando ahora
+[![Jugando](https://nocache.advait.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/123456789012345678)](https://discord.com/users/123456789012345678)
 <p align="center"> <a href="https://www.uah.es/en/estudios/estudios-oficiales/grados/Grado-en-Ingenieria-de-Computadores/" target="_blank" rel="noreferrer">
 <img src="https://secuah.web.uah.es/2020/wp-content/uploads/2018/03/logo_uah.png" alt="UAH" width=400 />
 </p>
@@ -13,4 +17,4 @@
 <p align="left"> 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,ubuntu,maven,pycharm,vscode,bash&perline=10&theme=dark">
 </p>
-![playing](https://nocache.advait.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/602501571921707027)
+[![playing](https://nocache.advait.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/602501571921707027)
