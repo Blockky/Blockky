@@ -21,4 +21,4 @@
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="apachenetbeans" width="40" height="40"/> </a> 
 </p>
 
-https://go-skill-icons.vercel.app/api/icons?i=py,cpp,rust,java,html,css,js,react,r,github,bash,git,assembly&perline=14
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,r,github,git,assembly&perline=14">
