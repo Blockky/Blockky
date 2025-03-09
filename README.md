@@ -22,5 +22,6 @@
 </p>
 
 
-   <i class="devicon-threedsmax-plain"></i>
+<img src="devicon-threedsmax-plain" alt="apachenetbeans" width="40" height="40"/>
+   <i class=""></i>
           
