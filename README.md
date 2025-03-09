@@ -20,4 +20,3 @@
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="apachenetbeans" width="40" height="40"/> </a> 
 </p>
-<iframe width="750" height="700" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGff4O6X-XlYQ4OQzwQnYbZLgCHM_LvGfEH-rR-7cXMlspvtY4vUh9lYAQuoQISQ/pubhtml?gid=2138514530&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
