@@ -16,3 +16,5 @@
   <a href="https://wikipedia.org/wiki/Ubuntu" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntulinux" width="40" height="40"/> </a> 
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="apachenetbeans" width="40" height="40"/> </a> 
 </p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="java" width="40" height="40"/> </a> 
+
