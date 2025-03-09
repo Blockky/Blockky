@@ -10,7 +10,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://es.wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png" alt="asm" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/software.html" target="_blank" rel="noreferrer"> <img src="https://docs.blender.org/manual/es/2.93/_images/getting-started_about_license_gnu-logo.png" alt="gnu" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
