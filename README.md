@@ -7,9 +7,9 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,r,assembly&perline=4&theme=light">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,r,assembly&perline=4&theme=dark">
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,ubuntu,pycharm,vscode,bash,maven&perline=10">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,ubuntu,pycharm,vscode,bash,maven&perline=10&theme=dark">
 </p>
