@@ -15,3 +15,5 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/icons/rstudioide.svg" width=40 height=40 >
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git">
