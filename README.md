@@ -8,6 +8,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,r,assembly&perline=4&theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark">
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
