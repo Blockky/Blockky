@@ -9,11 +9,11 @@
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark"> 
-  </a>  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=4&theme=dark">
-  </a>  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
-  </a> ㅤㅤㅤ   <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer">
+  </a> <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
   </a>
 </p>
