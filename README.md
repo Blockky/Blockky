@@ -32,6 +32,6 @@
   </a> <a href="https://wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
   </a> <a href="https://wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/ride.svg">
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/ride.svg" width=48>
   </a>
 </p>
