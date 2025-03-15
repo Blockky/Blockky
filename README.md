@@ -32,7 +32,7 @@
   </a> <a href="https://wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
   </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/ridesvg" width=48>
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/ride.svg" width=48>
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/apachenetb.svg" width=48>
   </a>
