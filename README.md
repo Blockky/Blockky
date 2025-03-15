@@ -23,8 +23,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git&perline=6&theme=dark"> 
   </a> <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&perline=6&theme=dark">
-  </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven&perline=6&theme=dark">
   </a> <a href="https://www.jetbrains.com/pycharm/download/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&perline=6&theme=dark">
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
