@@ -15,11 +15,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
   </a> <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
-  </a> <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&perline=4&theme=dark">
-  </a>
-  
+  </a>  
 </p>
+
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
