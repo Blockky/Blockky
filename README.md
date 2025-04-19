@@ -9,7 +9,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=4&theme=dark">
   </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
-  </a> <a href="https://wikipedia.org/wiki/GNU_Assembler" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
   </a>
 </p>
