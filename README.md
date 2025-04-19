@@ -24,7 +24,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&perline=6&theme=dark">
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=6&theme=dark">
-  </a> <a href="https://wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
   </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg" width=48>
