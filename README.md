@@ -16,10 +16,10 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
-  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&perline=6&theme=dark"> 
+  </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
   </a> <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&perline=6&theme=dark">
   </a> <a href="https://www.jetbrains.com/pycharm/download/" target="_blank" rel="noreferrer">
