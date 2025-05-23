@@ -35,6 +35,6 @@
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg" width=48>
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg" width=48>
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/latexlogo.svg" width=48>
   </a>
 </p>
