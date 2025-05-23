@@ -20,5 +20,5 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=6&theme=dark">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg" width=48>
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg" width=48>
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/officelogo.svg" width=48>
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg" width=48>
 </p>
