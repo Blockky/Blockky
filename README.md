@@ -45,5 +45,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css&perline=4&theme=dark">
   </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&perline=4&theme=dark">
+  </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg" width=48>
   </a>
 </p>
