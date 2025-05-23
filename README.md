@@ -36,9 +36,5 @@
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg" width=48>
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg" width=48>
-  </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/latex.svg" width=48>
-  </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&perline=6&theme=dark">
   </a>
 </p>
