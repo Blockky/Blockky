@@ -15,7 +15,6 @@
 <p align="left"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&perline=6&theme=dark"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=6&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&perline=6&theme=dark">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&perline=6&theme=dark">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=6&theme=dark">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg" width=48>
