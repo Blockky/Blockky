@@ -28,8 +28,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&perline=6&theme=dark">
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=6&theme=dark">
-  </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg" width=48>
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg" width=48>
   </a>
