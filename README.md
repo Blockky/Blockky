@@ -11,6 +11,10 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
   </a> <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
+  </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&perline=4&theme=dark">
+  </a> <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&perline=4&theme=dark">
   </a>
 </p>
 
@@ -28,6 +32,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=6&theme=dark">
   </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg" width=48>
+  </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/Blockky/Blockky/master/images/rstudio.svg" width=48>
   </a>
 </p>
 
