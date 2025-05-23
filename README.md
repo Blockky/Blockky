@@ -11,6 +11,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
   </a> <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
+  </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex&perline=4&theme=dark">
   </a>
 </p>
 
