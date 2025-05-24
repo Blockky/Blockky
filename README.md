@@ -3,7 +3,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark">(https://openai.com)
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=4&theme=dark">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
