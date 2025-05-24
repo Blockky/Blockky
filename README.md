@@ -19,7 +19,5 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg)](https://netbeans.apache.org/front/main/index.html)
   [![RStudio](https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg)](https://posit.co/download/rstudio-desktop/)
-  <img src="" width=48>
-  <img src="" width=48>
 </p>
 
