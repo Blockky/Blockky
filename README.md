@@ -3,16 +3,11 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=4&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
+  [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org)
+  [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
+  [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org)
+  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
 </p>
-
-[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org)
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com)
-[![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)](https://www.r-project.org)
-[![Assembly](https://upload.wikimedia.org/wikipedia/commons/2/2d/Assembly_language_icon.png)](https://www.gnu.org/software/gas/)
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
