@@ -9,7 +9,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
 </p>
 
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org)
 [![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com)
 [![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)](https://www.r-project.org)
 [![Assembly](https://upload.wikimedia.org/wikipedia/commons/2/2d/Assembly_language_icon.png)](https://www.gnu.org/software/gas/)
