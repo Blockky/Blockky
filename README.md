@@ -2,10 +2,11 @@
 <h3 align="center">A <a href="https://www.uah.es/en/estudios/Grado-en-Ingenieria-de-Computadores/"> computer engineer </a> at UAH</h3>
 
 <h3 align="left">Programming Languages:</h3>
-[![Python](https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark)](https://www.python.org)
-[![Java](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)](https://www.java.com)
-[![R](https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark)](https://www.r-project.org)
-[![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&theme=dark)](https://www.gnu.org/software/gas/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
+[![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)](https://www.r-project.org)
+[![Assembly](https://upload.wikimedia.org/wikipedia/commons/2/2d/Assembly_language_icon.png)](https://www.gnu.org/software/gas/)
+
 
 
 <h3 align="left">Tools:</h3>
