@@ -18,6 +18,6 @@
   [![PyCharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetb.svg)](https://netbeans.apache.org/front/main/index.html)
-  [![RStudio](https://raw.githubusercontent.com/Blockky/Blockky/master/images/ride.svg)](https://posit.co/download/rstudio-desktop/)
+  [![RStudio](https://raw.githubusercontent.com/Blockky/Blockky/master/images/rstudio.svg)](https://posit.co/download/rstudio-desktop/)
 </p>
 
