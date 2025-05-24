@@ -2,12 +2,11 @@
 <h3 align="center">A <a href="https://www.uah.es/en/estudios/Grado-en-Ingenieria-de-Computadores/"> computer engineer </a> at UAH</h3>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&perline=4&theme=dark">(https://openai.com)
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=4&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&perline=4&theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly&perline=4&theme=dark">
-</p>
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark)](https://www.python.org)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)](https://www.java.com)
+[![R](https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark)](https://www.r-project.org)
+[![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&theme=dark)](https://www.gnu.org/software/gas/)
+
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
