@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blocky</h1>
-<h3 align="center">First-year <a href="https://www.uah.es/en/estudios/Grado-en-Ingenieria-de-Computadores/">Computer Engineering</a> student at UAH [University of Alcalá]</h3>
+<h3 align="center">First-year <a href="https://www.uah.es/en/estudios/estudios-oficiales/grados/Degree-in-Computer-Engineering/">Computer Engineering</a> student at UAH [University of Alcalá]</h3>
 <br>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
