@@ -8,6 +8,7 @@
   [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
   [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
+  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.gnu.org/software/binutils/)
 </p>
 
 <h3 align="left">Tools:</h3>
