@@ -9,6 +9,7 @@
   [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
+  [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
 </p>
 
 <h3 align="left">Tools:</h3>
