@@ -21,4 +21,5 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![RStudio](https://raw.githubusercontent.com/Blockky/Blockky/master/images/rstudio.svg)](https://posit.co/download/rstudio-desktop/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
+  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/)
 </p>
