@@ -4,8 +4,8 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
-  [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org)
   [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
+  [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.rust-lang.org/)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
@@ -16,7 +16,7 @@
   
   [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
   [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
-  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://www.gnu.org/software/bash/)
+  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
