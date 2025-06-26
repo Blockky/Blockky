@@ -23,19 +23,16 @@
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
-<h3 align="left">Programming Languages:</h3>
-<p align="left">  
-
+<h3>Programming Languages:</h3>
   [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
   [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.rust-lang.org/)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
-</p>
   </div>
   <div style="flex: 1; padding: 10px;">
-    <h3 align="left">Tools:</h3>
-<p align="left"> 
+    <h3>Tools:</h3>
+<p> 
   
   [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
   [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
