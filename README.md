@@ -23,9 +23,25 @@
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
-    <!-- Contenido de la primera columna -->
+<h3 align="left">Programming Languages:</h3>
+<p align="left">  
+
+  [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
+  [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.rust-lang.org/)
+  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
+  [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
+  [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
+</p>
   </div>
   <div style="flex: 1; padding: 10px;">
-    <!-- Contenido de la segunda columna -->
+    <h3 align="left">Tools:</h3>
+<p align="left"> 
+  
+  [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
+  [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
+  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
+  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
+  [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
+</p>
   </div>
 </div>
