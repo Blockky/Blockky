@@ -20,3 +20,11 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
+
+<h3 align="left">Design:</h3>
+<p align="left"> 
+  
+  [![Git](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://git-scm.com/)
+  [![Arch](https://go-skill-icons.vercel.app/api/icons?i=html)](https://archlinux.org/)
+  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=css)](https://neovim.io/)
+</p>
