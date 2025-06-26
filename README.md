@@ -25,8 +25,8 @@
 <p align="left"> 
   
   [![Git](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://git-scm.com/)
+  [![Vim](https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg)]([https://www.latex-project.org/)
   [![Arch](https://go-skill-icons.vercel.app/api/icons?i=html)](https://archlinux.org/)
   [![Vim](https://go-skill-icons.vercel.app/api/icons?i=css)](https://neovim.io/)
-  [![Vim](https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg)]([https://www.latex-project.org/)
   [![Vim](https://raw.githubusercontent.com/Blockky/Blockky/master/images/libreoffice.svg)]([https://www.latex-project.org/)
 </p>
