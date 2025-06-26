@@ -20,13 +20,3 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
-
-<h3 align="left">Digital documentation & design:</h3>
-<p align="left"> 
-  
-  [![Html](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/)
-  [![Css](https://go-skill-icons.vercel.app/api/icons?i=css)]([https://neovim.io/](https://www.w3.org/TR/css/#css))
-  [![LibreOffice](https://raw.githubusercontent.com/Blockky/Blockky/master/images/libreoffice.svg)](https://www.libreoffice.org/)
-  [![Latex](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://git-scm.com/)
-  [![Office365](https://raw.githubusercontent.com/Blockky/Blockky/master/images/office365.svg)](https://www.latex-project.org/)
-</p>
