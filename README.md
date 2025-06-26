@@ -20,3 +20,12 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <!-- Contenido de la primera columna -->
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <!-- Contenido de la segunda columna -->
+  </div>
+</div>
