@@ -20,13 +20,6 @@
   [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
-</p>
-
-<h3 align="left">Other Tools & Languages (Familiarity/Basic Use)</h3>
-<p align="left"> 
-  
-  [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
-  [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org/)
   [![Latex](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://www.latex-project.org/)
   [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://html.spec.whatwg.org/multipage/)
   [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/Style/CSS/)
