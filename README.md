@@ -20,5 +20,4 @@
   [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
-  [![Latex](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://www.latex-project.org/)
 </p>
