@@ -22,13 +22,18 @@
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-  
-  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://git-scm.com/)
-  [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://archlinux.org/)
-  [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.gnu.org/software/bash/)
-  [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://neovim.io/)
-  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
-  [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
-</p>
+## 🛠️ Main Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux (Arch)](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+<!-- Add more main tools/languages here -->
+
+
+## 🚀 Other Tools & Languages (Familiarity/Basic Use)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<!-- Add more as needed -->
+
