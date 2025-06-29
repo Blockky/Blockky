@@ -21,3 +21,14 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+  
+  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://git-scm.com/)
+  [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://archlinux.org/)
+  [![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.gnu.org/software/bash/)
+  [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://neovim.io/)
+  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
+  [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
+</p>
