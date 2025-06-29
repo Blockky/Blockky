@@ -23,6 +23,8 @@
 </p>
 
 ## 🛠️ Main Languages & Tools
+![C](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
