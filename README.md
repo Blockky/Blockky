@@ -25,10 +25,9 @@
 <h3 align="left">Basic Knowledge:</h3>
 <p align="left"> 
   
-  [![Pyhton](https://go-skill-icons.vercel.app/api/icons?i=py)](https://git-scm.com/)
-  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://archlinux.org/)
-  [![Bash](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.gnu.org/software/bash/)
-  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=r)](https://neovim.io/)
-  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=js)](https://code.visualstudio.com/)
-  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=sql)](https://code.visualstudio.com/)
+  [![Pyhton](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
+  [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org/)
+  [![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.w3schools.com/Js/)
+  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://www.w3schools.com/html/)
+  [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3schools.com/Css/)
 </p>
