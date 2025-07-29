@@ -21,3 +21,14 @@
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![ApacheNetBeans](https://raw.githubusercontent.com/Blockky/Blockky/master/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
 </p>
+
+<h3 align="left">Basic Knowledge:</h3>
+<p align="left"> 
+  
+  [![Pyhton](https://go-skill-icons.vercel.app/api/icons?i=py)](https://git-scm.com/)
+  [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://archlinux.org/)
+  [![Bash](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.gnu.org/software/bash/)
+  [![Vim](https://go-skill-icons.vercel.app/api/icons?i=r)](https://neovim.io/)
+  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=js)](https://code.visualstudio.com/)
+  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=sql)](https://code.visualstudio.com/)
+</p>
