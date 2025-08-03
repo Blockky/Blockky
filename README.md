@@ -4,6 +4,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
+  [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.rust-lang.org/)
   [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
