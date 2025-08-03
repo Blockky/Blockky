@@ -27,7 +27,7 @@
   
   [![Pyhton](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
   [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org/)
-  [![C#](https://go-skill-icons.vercel.app/api/icons?i=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [![C#](https://go-skill-icons.vercel.app/api/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   [![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.w3schools.com/Js/)
   [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://www.w3schools.com/html/)
   [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3schools.com/Css/)
