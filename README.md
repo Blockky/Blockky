@@ -5,7 +5,6 @@
 <p align="left">  
 
   [![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust)](https://www.rust-lang.org/)
-  [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
   [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
@@ -25,6 +24,7 @@
 <h3 align="left">Basic Knowledge:</h3>
 <p align="left"> 
   
+  [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.java.com)
   [![Pyhton](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
   [![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org/)
   [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://www.w3schools.com/html/)
