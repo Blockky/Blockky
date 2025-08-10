@@ -1,0 +1,14 @@
+GNU Assembler - GAS
+Linux x86 & x64
+
+
+Netwide Assembler - NASM
+Linux x86 & x64
+
+Windows x86 & x64
+
+
+Microsoft Macro Assembler - MASM
+Windows x86 & x64
+
+MS-DOS 16bits
