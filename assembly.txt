@@ -1,19 +1,15 @@
-GNU Assembler - GAS [as] - https://www.gnu.org/software/binutils/
-• Linux x86 & x64 & ARM64
+[ASSEMBLERS]
+ • GNU Assembler - GAS [as] - https://www.gnu.org/software/binutils/
+ • Netwide Assembler - NASM [nasm] - https://www.nasm.us/     
+ • Microsoft Macro Assembler - MASM [ml] - https://learn.microsoft.com/en-us/cpp/intrinsics
 
+[LINKERS]
+ • GNU Linker - [ld] - https://www.gnu.org/software/binutils/
+ • Microsoft Incremental Linker - [link] - https://learn.microsoft.com/en-us/cpp/build/reference/linker-options
+ • LLVM Linker - [lld] - https://lld.llvm.org/
 
-Netwide Assembler - NASM [nasm] - https://www.nasm.us/
-• Linux x86 & x64        
-• Windows x86 & x64      
-
-
-Microsoft Macro Assembler - MASM [ml] - https://learn.microsoft.com/en-us/cpp/intrinsics
-• Windows x86 & x64
-
-
-GNU Linker - [ld] - https://www.gnu.org/software/binutils/
-• Linux x86 & x64
-
-
-Microsoft Incremental Linker - [link] - https://learn.microsoft.com/en-us/cpp/build/reference/linker-options
-• Windows x86 & x64
+[COMPILERS & TOOLCHAINS]
+ • GCC - GNU Compiler Collection - https://gcc.gnu.org/
+ • MSVC - Microsoft Visual Cpp - https://learn.microsoft.com/en-us/cpp
+ • MinGW - Minimalist GNU for Windows - https://www.mingw-w64.org/
+ • LLVM - LLVM Compiler Infrastructure - https://llvm.org/
