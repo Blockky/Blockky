@@ -1,14 +1,19 @@
-GNU Assembler - GAS
-Linux x86 & x64
+GNU Assembler - GAS [as] - https://www.gnu.org/software/binutils/
+• Linux x86 & x64 & ARM64
 
 
-Netwide Assembler - NASM
-Linux x86 & x64
+Netwide Assembler - NASM [nasm] - https://www.nasm.us/
+• Linux x86 & x64        
+• Windows x86 & x64      
 
-Windows x86 & x64
+
+Microsoft Macro Assembler - MASM [ml] - https://learn.microsoft.com/en-us/cpp/intrinsics
+• Windows x86 & x64
 
 
-Microsoft Macro Assembler - MASM
-Windows x86 & x64
+GNU Linker - [ld] - https://www.gnu.org/software/binutils/
+• Linux x86 & x64
 
-MS-DOS 16bits
+
+Microsoft Incremental Linker - [link] - https://learn.microsoft.com/en-us/cpp/build/reference/linker-options
+• Windows x86 & x64
