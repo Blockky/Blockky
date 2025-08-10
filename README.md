@@ -4,7 +4,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
-  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://www.gnu.org/software/binutils/)
+  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://raw.githubusercontent.com/Blockky/Blockky/master/assembly.txt)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
