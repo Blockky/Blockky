@@ -6,10 +6,9 @@
 [LINKERS]
  • GNU Linker - [ld] - https://www.gnu.org/software/binutils/
  • Microsoft Incremental Linker - [link] - https://learn.microsoft.com/en-us/cpp/build/reference/linker-options
- • LLVM Linker - [lld] - https://lld.llvm.org/
 
 [COMPILERS & TOOLCHAINS]
  • GCC - GNU Compiler Collection - https://gcc.gnu.org/
- • MSVC - Microsoft Visual Cpp - https://learn.microsoft.com/en-us/cpp
+ • MSVC - Microsoft Visual C++ - https://learn.microsoft.com/en-us/cpp
  • MinGW - Minimalist GNU for Windows - https://www.mingw-w64.org/
- • LLVM - LLVM Compiler Infrastructure - https://llvm.org/
+ • LLVM/Clang - LLVM Compiler Infrastructure - https://llvm.org/
