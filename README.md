@@ -8,7 +8,9 @@
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
-  |
+
+
+  
   [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 </p>
 
