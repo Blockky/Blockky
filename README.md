@@ -12,7 +12,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   
-  [![Git](https://go-skill-icons.vercel.app/api/icons?i=zsh)](https://git-scm.com/)
+  [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
   [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
   [![Hyprland](https://go-skill-icons.vercel.app/api/icons?i=hyprland)](https://hypr.land/)
   [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
