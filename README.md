@@ -4,7 +4,6 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
-  [![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly)](https://raw.githubusercontent.com/Blockky/Blockky/master/assembly.txt)
   [![C](https://go-skill-icons.vercel.app/api/icons?i=c)](https://www.c-language.org/)
   [![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
@@ -13,9 +12,9 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   
-  [![Hyprland](https://go-skill-icons.vercel.app/api/icons?i=hyprland)]()
-  [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
+  [![Git](https://go-skill-icons.vercel.app/api/icons?i=zsh)](https://git-scm.com/)
   [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
+  [![Hyprland](https://go-skill-icons.vercel.app/api/icons?i=hyprland)](https://hypr.land/)
   [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
   [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
