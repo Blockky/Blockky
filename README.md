@@ -17,4 +17,5 @@
   [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/software/bash/)
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Vim](https://go-skill-icons.vercel.app/api/icons?i=vim)](https://neovim.io/)
+  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
 </p>
