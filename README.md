@@ -4,9 +4,9 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
-  [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/)
-  [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-  [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+  [![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://devdocs.io/cpp/)
+  [![Rust](https://skillicons.dev/icons?i=rust)](https://devdocs.io/rust/)
 </p>
 
 <h3 align="left">Tools:</h3>
