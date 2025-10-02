@@ -1,4 +1,4 @@
-<br>
+<hr>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
 
