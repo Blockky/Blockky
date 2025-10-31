@@ -7,7 +7,7 @@
   [![Asm](https://go-skill-icons.vercel.app/api/icons?i=asm)](https://sourceware.org/binutils/docs/as/i386_002dDependent.html)
   [![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
   [![C++](https://skillicons.dev/icons?i=cpp)](https://devdocs.io/cpp/)
-  [![Rust](https://skillicons.dev/icons?i=rust)](https://devdocs.io/rust/)
+  [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
 </p>
 
 <h3 align="left">Tools:</h3>
