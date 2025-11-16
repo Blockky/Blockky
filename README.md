@@ -1,3 +1,4 @@
+<hr>
 <h3 align="center">Second-year <a href="https://www.uah.es/en/estudios/estudios-oficiales/grados/Degree-in-Computer-Engineering/">Computer Engineering</a> student at the UAH [University of Alcalá]</h3>
 <br>
 <h3 align="left">Programming Languages:</h3>
