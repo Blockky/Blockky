@@ -5,7 +5,7 @@
 <p align="left">
   
   [![Asm](https://raw.githubusercontent.com/Blockky/Blockky/main/images/asm.svg)](https://www.scs.stanford.edu/05au-cs240c/lab/i386/toc.htm)
-  [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+  [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://www.oracle.com/java/)
   [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/tools)
   [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/get-started)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
