@@ -4,10 +4,11 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   
-  [![Asm](https://go-skill-icons.vercel.app/api/icons?i=asm)](https://sourceware.org/binutils/docs/as/i386_002dDependent.html)
-  [![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
-  [![C++](https://skillicons.dev/icons?i=cpp)](https://devdocs.io/cpp/)
+  [![Asm](https://go-skill-icons.vercel.app/api/icons?i=asm)](https://www.scs.stanford.edu/05au-cs240c/lab/i386/toc.htm)
+  [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/tools)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/get-started)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 </p>
 
 <h3 align="left">Tools:</h3>
