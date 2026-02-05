@@ -9,7 +9,7 @@
   [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/get-started)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
   [![Java](https://raw.githubusercontent.com/Blockky/Blockky/main/images/javaicon.svg)](https://www.oracle.com/java/)
-  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/riscv.svg)](https://riscv.org/)
+  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/RISC-V-logo.svg)](https://riscv.org/)
   
 </p>
 
