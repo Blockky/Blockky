@@ -9,6 +9,8 @@
   [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/get-started)
   [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
   [![Java](https://raw.githubusercontent.com/Blockky/Blockky/main/images/javaicon.svg)](https://www.oracle.com/java/)
+  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/risc_v.svg)](https://riscv.org/)
+  
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -20,5 +22,4 @@
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
-  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/RISC-V-logo-square.svg)](https://riscv.org/)
 </p>
