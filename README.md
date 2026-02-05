@@ -20,5 +20,5 @@
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
-  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/RISC-V.svg)](https://riscv.org/)
+  [![RISC-V](https://raw.githubusercontent.com/Blockky/Blockky/main/images/RISC-V-logo-square.svg)](https://riscv.org/)
 </p>
