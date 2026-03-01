@@ -21,4 +21,5 @@
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
   [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
+  [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio)](https://platformio.org/)
 </p>
