@@ -15,11 +15,11 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   
-  [![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
   [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
   [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
-  [![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
   [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio)](https://platformio.org/)
+  [![Qemu](https://go-skill-icons.vercel.app/api/icons?i=qemu)](https://www.qemu.org/)
+  [![Arduino](https://go-skill-icons.vercel.app/api/icons?i=arduino)](https://www.arduino.cc/)
 </p>
