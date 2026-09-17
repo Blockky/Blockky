@@ -22,5 +22,5 @@
   [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio)](https://platformio.org/)
   [![Qemu](https://go-skill-icons.vercel.app/api/icons?i=qemu)](https://www.qemu.org/)
   [![MATLAB](https://go-skill-icons.vercel.app/api/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
-  [![Arduino](https://go-skill-icons.vercel.app/api/icons?i=arduino)](https://www.arduino.cc/)
+  [![Arduino](https://raw.githubusercontent.com/Blockky/Blockky/main/images/arduino.svg)](https://www.arduino.cc/)
 </p>
