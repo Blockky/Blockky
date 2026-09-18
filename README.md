@@ -20,7 +20,6 @@
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
   [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
   [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio)](https://platformio.org/)
-  [![Qemu](https://go-skill-icons.vercel.app/api/icons?i=qemu)](https://www.qemu.org/)
   [![MATLAB](https://go-skill-icons.vercel.app/api/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
   [![Arduino](https://raw.githubusercontent.com/Blockky/Blockky/main/images/arduino.svg)](https://www.arduino.cc/)
 </p>
