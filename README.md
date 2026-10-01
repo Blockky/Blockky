@@ -1,5 +1,5 @@
 <h1 align="center">Low-level dev enthusiast</h1>
-<h3 align="center">Third-year <a href="https://www.uah.es/en/estudios/estudios-oficiales/grados/Degree-in-Computer-Engineering/">Computer Engineering</a> student at the <a href="https://uah.es/en/">University of Alcalá</a></h3>
+<h3 align="center">Third-year <a href="https://uah.es/es/estudios/estudios-oficiales/grados/Grado-en-Ingenieria-de-Computadores/">Computer Engineering</a> student at the <a href="https://uah.es/es/">University of Alcalá</a></h3>
 <br>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -15,11 +15,10 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   
-  [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)](https://archlinux.org/)
-  [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
+  [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch&theme=dark)](https://archlinux.org/)
+  [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
-  [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim)](https://neovim.io/)
-  [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio)](https://platformio.org/)
-  [![MATLAB](https://go-skill-icons.vercel.app/api/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
+  [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim&theme=dark)](https://neovim.io/)
+  [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio&theme=dark)](https://platformio.org/)
   [![Arduino](https://raw.githubusercontent.com/Blockky/Blockky/main/images/arduino.svg)](https://www.arduino.cc/)
 </p>
