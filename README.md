@@ -15,10 +15,10 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   
-  [![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch&theme=dark)](https://archlinux.org/)
-  [![Bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
+  [![Arch](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
+  [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
   [![Netbeans](https://raw.githubusercontent.com/Blockky/Blockky/main/images/apachenetbeans.svg)](https://netbeans.apache.org/front/main/index.html)
-  [![Neovim](https://go-skill-icons.vercel.app/api/icons?i=neovim&theme=dark)](https://neovim.io/)
+  [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
   [![PlatformIO](https://go-skill-icons.vercel.app/api/icons?i=platformio&theme=dark)](https://platformio.org/)
   [![Arduino](https://raw.githubusercontent.com/Blockky/Blockky/main/images/arduino.svg)](https://www.arduino.cc/)
 </p>
